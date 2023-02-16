@@ -159,7 +159,7 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 
 Second part of Airbnb:
 Bienvenu Gbeti - [Github] (https://github.com/gbetibienvenu)
-Ester - [Github] - (https://github.com/esteri1)
+Esther Adeyemi - [Github] (https://github.com/esteri1)
 ##Licence 
   
 Public Domain. No copy write protection. 
